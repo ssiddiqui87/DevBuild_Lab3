@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ssiddiqui\\OneDrive - Knex\\Desktop\\devbuild\\Grand Circus\\Week 3 - C# Collections\\Labs\\Lab3-2\\Lab3-2.csproj": {}
+    "C:\\Users\\ssiddiqui\\source\\repos\\Lab3-3\\Lab3-3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ssiddiqui\\OneDrive - Knex\\Desktop\\devbuild\\Grand Circus\\Week 3 - C# Collections\\Labs\\Lab3-2\\Lab3-2.csproj": {
+    "C:\\Users\\ssiddiqui\\source\\repos\\Lab3-3\\Lab3-3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ssiddiqui\\OneDrive - Knex\\Desktop\\devbuild\\Grand Circus\\Week 3 - C# Collections\\Labs\\Lab3-2\\Lab3-2.csproj",
-        "projectName": "Lab3-2",
-        "projectPath": "C:\\Users\\ssiddiqui\\OneDrive - Knex\\Desktop\\devbuild\\Grand Circus\\Week 3 - C# Collections\\Labs\\Lab3-2\\Lab3-2.csproj",
+        "projectUniqueName": "C:\\Users\\ssiddiqui\\source\\repos\\Lab3-3\\Lab3-3.csproj",
+        "projectName": "Lab3-3",
+        "projectPath": "C:\\Users\\ssiddiqui\\source\\repos\\Lab3-3\\Lab3-3.csproj",
         "packagesPath": "C:\\Users\\ssiddiqui\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ssiddiqui\\OneDrive - Knex\\Desktop\\devbuild\\Grand Circus\\Week 3 - C# Collections\\Labs\\Lab3-2\\obj\\",
+        "outputPath": "C:\\Users\\ssiddiqui\\source\\repos\\Lab3-3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
